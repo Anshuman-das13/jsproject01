@@ -6,9 +6,4 @@ a.style.display = 'block'
 function give(){
  a.style.display = 'none'
 }
-function give(){
-    if(a.style.display='none')
-    {
-        alert('alredy in reset mode')
-    }
-}
+
